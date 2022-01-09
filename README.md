@@ -1,6 +1,6 @@
 ## About MCH Corporation (MCH)
 
-MCH is an information technology and security solutions company that uses its extensive knowledge and domain expertise to develop information technology solutions to operate activities of vital importance to companies and government agencies. We consistently exceed our customers’ expectations and are vigilant in our commitment to ethical performance and integrity.
+MCH is an information technology and security solutions company that uses its extensive knowledge and domain expertise to develop information technology solutions to operate activities of vital importance to companies and government agencies. We consistently exceed our customers’ expectations and are vigilant in our commitment to ethical performance and integrity.  You can visit our website here: [MCH Corporation Website](https://mchcorp.com/){:target="_blank"}{:rel="noopener noreferrer"}.
 
 ## Notable Accomplishments
 
